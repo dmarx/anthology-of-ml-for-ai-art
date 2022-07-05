@@ -100,6 +100,9 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution
   * https://arxiv.org/abs/1603.08155v1
 
+* Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+  * https://arxiv.org/abs/1703.06868v2
+  * https://github.com/xunhuang1995/AdaIN-style
 
 # GANs
 
