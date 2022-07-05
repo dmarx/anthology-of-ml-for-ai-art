@@ -89,7 +89,11 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * A Neural Algorithm of Artistic Style
   * https://arxiv.org/pdf/1508.06576v2.pdf
 
-* CycleGAN
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+  * https://arxiv.org/abs/1703.10593v7 
+  * https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+  * CycleGAN
+
 * DiscoGAN
 
 # GANs
