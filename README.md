@@ -84,7 +84,10 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
   * https://github.com/crowsonkb/k-diffusion
 
 
-# Style Transfer
+# Style Transfer (image-image translation) 
+
+* CycleGAN
+* DiscoGAN
 
 # GANs
 
@@ -107,7 +110,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 * CLIP
 * CLOOB
-* Multi-lingual Clip
+* Multi-lingual CLIP
 * SLIP
 
 # Modern text-to-image
@@ -131,6 +134,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 # Implicit Image Representations
 
+* INR
 * Deep Image Prior
 * SIREN
 * NeRF
@@ -141,7 +145,10 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 # Misc 
 
-* Attention is All You Need
-* ViT
 * ResNet
 * EfficientNet
+* Attention is All You Need
+* ViT
+* DETR
+* MDETR
+* DEiT
