@@ -50,3 +50,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Fast Sampling of Diffusion Models with Exponential Integrator
   * https://arxiv.org/abs/2204.13902
   * https://github.com/qsh-zh/deis
+
+* Elucidating the Design Space of Diffusion-Based Generative Models
+  * https://arxiv.org/abs/2206.00364
+  * https://github.com/crowsonkb/k-diffusion
