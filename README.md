@@ -120,6 +120,11 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * JoJoGAN: One Shot Face Stylization
   * https://arxiv.org/abs/2112.11641v4
 
+* ARF: Artistic Radiance Fields
+  * https://www.cs.cornell.edu/projects/arf/
+  * https://arxiv.org/abs/2206.06360
+  * https://github.com/Kai-46/ARF-svox2
+
 # GANs
 
 * WGAN
