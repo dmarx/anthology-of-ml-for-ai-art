@@ -29,6 +29,11 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Improved Denoising Diffusion Probabilistic Models
   * https://arxiv.org/abs/2102.09672
 
+* Progressive Distillation for Fast Sampling of Diffusion Models 
+  * https://openreview.net/forum?id=TIdIXIpzhoI
+  * https://github.com/crowsonkb/v-diffusion-pytorch
+  * Sept 2021
+  
 * High-Resolution Image Synthesis with Latent Diffusion Models
   * https://arxiv.org/abs/2112.10752
   * https://github.com/CompVis/latent-diffusion
