@@ -152,3 +152,4 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * DETR
 * MDETR
 * DEiT
+* ArtBreeder
