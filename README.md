@@ -96,6 +96,11 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 * DiscoGAN
 
+
+* Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+  * https://arxiv.org/abs/1603.08155v1
+
+
 # GANs
 
 * WGAN
@@ -159,8 +164,12 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * DETR
 * MDETR
 * DEiT
+
 * Masked Autoencoders Are Scalable Vision Learners
   * https://arxiv.org/abs/2111.06377
+
+* LPIPS
+* Frechet Inception Distance
 
 # Misc Art
 
