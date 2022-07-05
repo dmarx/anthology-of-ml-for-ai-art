@@ -3,6 +3,10 @@ like dmarx/anthology-of-machine-learning, but focused on important papers in AI 
 
 # Interpretability as Art (Deep Dream, Feature Visualization)
 
+* Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+  * https://arxiv.org/pdf/1412.1897v4.pdf
+  * Adversarial Images
+
 * Deep Dream
   * https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
   * https://ai.googleblog.com/2015/07/deepdream-code-example-for-visualizing.html
