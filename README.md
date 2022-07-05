@@ -120,10 +120,6 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * JoJoGAN: One Shot Face Stylization
   * https://arxiv.org/abs/2112.11641v4
 
-* StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
-  * https://arxiv.org/abs/2108.00946
-  * https://stylegan-nada.github.io/
-
 # GANs
 
 * WGAN
@@ -150,6 +146,10 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 # Modern text-to-image
 
+* StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
+  * https://arxiv.org/abs/2108.00946
+  * https://stylegan-nada.github.io/
+
 * Aphantasia
 * VQGAN + CLIP
 * CFG
@@ -166,6 +166,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Translation for animation effects
 * Depth loss
 * Flow loss
+
 
 # Implicit Image Representations
 
