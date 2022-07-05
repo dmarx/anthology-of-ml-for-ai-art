@@ -1,5 +1,6 @@
-# anthology-of-ml-for-ai-art
-like dmarx/anthology-of-machine-learning, but focused on important papers in AI art
+# Anthology of ML for AI Art
+
+Like dmarx/anthology-of-machine-learning, but focused on important papers relevant to artistic applications of AI
 
 # Interpretability as Art (Deep Dream, Feature Visualization)
 
