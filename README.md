@@ -88,7 +88,18 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 # GANs
 
-## StyleGANs
+* WGAN
+* DCGAN
+* GAN Training tricks
+* spherical interpolation
+* StyleGAN
+* StyleGAN2
+* StyleGAN2-ADA
+* Projected GANs
+* StyleGAN-XL
+* VQGAN
+* VQVAE
+* RQVAE
 
 # Early text-to-image
 
@@ -110,6 +121,13 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * GLIDE
 * Imagen
 * Parti
+* Superconditioning (twitter thread)
+* z-regularization
+* aesthetic models
+* spherical distance
+* Translation for animation effects
+* Depth loss
+* Flow loss
 
 # Implicit Image Representations
 
@@ -120,3 +138,10 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * GIRAFFE
 * GRAF
 * Neural SDF
+
+# Misc 
+
+* Attention is All You Need
+* ViT
+* ResNet
+* EfficientNet
