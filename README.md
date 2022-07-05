@@ -100,6 +100,9 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution
   * https://arxiv.org/abs/1603.08155v1
 
+* Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
+  * https://arxiv.org/abs/1603.03417v1
+
 * Universal Style Transfer via Feature Transforms
   * https://arxiv.org/abs/1705.08086v2
 
@@ -110,6 +113,16 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
   * https://arxiv.org/abs/1703.06868v2
   * https://github.com/xunhuang1995/AdaIN-style
+
+* A Style-Aware Content Loss for Real-time HD Style Transfer
+  * https://arxiv.org/abs/1807.10201v2
+
+* JoJoGAN: One Shot Face Stylization
+  * https://arxiv.org/abs/2112.11641v4
+
+* StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
+  * https://arxiv.org/abs/2108.00946
+  * https://stylegan-nada.github.io/
 
 # GANs
 
