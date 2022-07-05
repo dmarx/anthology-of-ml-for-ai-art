@@ -100,6 +100,9 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution
   * https://arxiv.org/abs/1603.08155v1
 
+* Universal Style Transfer via Feature Transforms
+  * https://arxiv.org/abs/1705.08086v2
+
 * Instance Normalization: The Missing Ingredient for Fast Stylization
   * https://arxiv.org/abs/1607.08022v3
   * https://github.com/DmitryUlyanov/texture_nets
