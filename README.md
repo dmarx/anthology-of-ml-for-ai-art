@@ -86,6 +86,9 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 
 # Style Transfer (image-image translation) 
 
+* A Neural Algorithm of Artistic Style
+  * https://arxiv.org/pdf/1508.06576v2.pdf
+
 * CycleGAN
 * DiscoGAN
 
