@@ -22,6 +22,8 @@ like dmarx/anthology-of-machine-learning, but focused on important papers in AI 
 * Exploring Neural Networks with Activation Atlases
   * https://distill.pub/2019/activation-atlas/
 
+* https://distill.pub/2020/circuits/
+
 # Style Transfer
 
 # Diffusion And Friends
