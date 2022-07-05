@@ -1,6 +1,29 @@
 # anthology-of-ml-for-ai-art
 like dmarx/anthology-of-machine-learning, but focused on important papers in AI art
 
+# Interpretability as Art (Deep Dream, Feature Visualization)
+
+* Deep Dream
+  * https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+  * https://ai.googleblog.com/2015/07/deepdream-code-example-for-visualizing.html
+
+* Deconvolution and Checkerboard Artifacts
+  * https://distill.pub/2016/deconv-checkerboard/
+
+* Feature Visualization
+  * https://distill.pub/2017/feature-visualization/
+
+* The building blocks of interpretability
+  * https://distill.pub/2018/building-blocks/
+
+* Differentiable Image Parameterizations
+  * https://distill.pub/2018/differentiable-parameterizations/
+
+* Exploring Neural Networks with Activation Atlases
+  * https://distill.pub/2019/activation-atlas/
+
+# Style Transfer
+
 # Diffusion And Friends
 
 see also: https://github.com/heejkoo/Awesome-Diffusion-Models
