@@ -28,8 +28,6 @@ like dmarx/anthology-of-machine-learning, but focused on important papers in AI 
 
 * https://distill.pub/2020/circuits/
 
-# Style Transfer
-
 # Diffusion And Friends
 
 see also: https://github.com/heejkoo/Awesome-Diffusion-Models
@@ -83,3 +81,41 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Elucidating the Design Space of Diffusion-Based Generative Models
   * https://arxiv.org/abs/2206.00364
   * https://github.com/crowsonkb/k-diffusion
+
+
+# Style Transfer
+
+# GANs
+
+## StyleGANs
+
+# Early text-to-image
+
+# Multimodal Representation Learning
+
+* CLIP
+* CLOOB
+* Multi-lingual Clip
+* SLIP
+
+# Modern text-to-image
+
+* Aphantasia
+* VQGAN + CLIP
+* CFG
+* DALLE
+* unCLIP/DALLE2
+* ruDALLE
+* GLIDE
+* Imagen
+* Parti
+
+# Implicit Image Representations
+
+* Deep Image Prior
+* SIREN
+* NeRF
+* Instant-NGP (Hash-NeRF)
+* GIRAFFE
+* GRAF
+* Neural SDF
