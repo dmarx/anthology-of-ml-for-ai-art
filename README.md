@@ -143,7 +143,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * GRAF
 * Neural SDF
 
-# Misc 
+# Misc CV
 
 * ResNet
 * EfficientNet
@@ -152,4 +152,9 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * DETR
 * MDETR
 * DEiT
+* Masked Autoencoders Are Scalable Vision Learners
+  * https://arxiv.org/abs/2111.06377
+
+# Misc Art
+
 * ArtBreeder
