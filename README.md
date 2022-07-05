@@ -46,3 +46,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Pseudo Numerical Methods for Diffusion Models on Manifolds
   * https://arxiv.org/abs/2202.09778
   * https://github.com/luping-liu/PNDM
+
+* Fast Sampling of Diffusion Models with Exponential Integrator
+  * https://arxiv.org/abs/2204.13902
+  * https://github.com/qsh-zh/deis
