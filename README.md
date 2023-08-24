@@ -125,6 +125,12 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
   * https://arxiv.org/abs/2206.06360
   * https://github.com/Kai-46/ARF-svox2
 
+* Artistic style transfer for videos
+  * https://arxiv.org/abs/1604.08610
+  * https://lmb.informatik.uni-freiburg.de/Publications/2018/RDB18/
+  * https://github.com/manuelruder/artistic-videos/
+  * https://github.com/manuelruder/fast-artistic-videos
+
 # GANs
 
 * WGAN
