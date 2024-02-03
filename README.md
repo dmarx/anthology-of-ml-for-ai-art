@@ -177,6 +177,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Translation for animation effects
 * Depth loss
 * Flow loss
+* latent consistency
 
 
 # Implicit Image Representations
@@ -189,6 +190,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * GIRAFFE
 * GRAF
 * Neural SDF
+* gaussian splatting
 
 # Misc CV
 
