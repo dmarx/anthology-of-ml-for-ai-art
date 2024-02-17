@@ -83,6 +83,8 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
   * https://arxiv.org/abs/2206.00364
   * https://github.com/crowsonkb/k-diffusion
 
+* EDM2
+* Cold Diffusion
 
 # Style Transfer (image-image translation) 
 
