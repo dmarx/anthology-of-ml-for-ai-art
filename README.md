@@ -178,7 +178,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * Depth loss
 * Flow loss
 * latent consistency
-
+* Wuerstchen
 
 # Implicit Image Representations
 
@@ -190,6 +190,7 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * GIRAFFE
 * GRAF
 * Neural SDF
+* triplane representations
 * gaussian splatting
 
 # Misc CV
@@ -201,6 +202,8 @@ see also: https://github.com/heejkoo/Awesome-Diffusion-Models
 * DETR
 * MDETR
 * DEiT
+* DiT
+
 
 * Masked Autoencoders Are Scalable Vision Learners
   * https://arxiv.org/abs/2111.06377
